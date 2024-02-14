@@ -1,0 +1,6 @@
+Industry qualifications such as:
+CREST Practitioner Security Analyst (CPSA)
+CREST Registered Penetration Tester (CRT)
+CREST Certified Web Application Tester (CCT APP)
+Offensive Security Certified Professional (OSCP)
+Offensive Security Web Expert (OSWE)
