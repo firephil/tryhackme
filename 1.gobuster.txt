@@ -1,1 +1,5 @@
 gobuster -u http://fakebank.com -w wordlist.txt dir
+
+
+GoBuster scans the website with each word in the list, finding pages that exist on the site. 
+GoBuster will have told you the pages it found in the list of page/directory names (indicated by Status: 200).
